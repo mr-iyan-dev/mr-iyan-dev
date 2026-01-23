@@ -8,7 +8,6 @@ I focus on clean architecture, performance, and real-world problem solving.
 ---
 
 ## 🚀 About Me
-
 - 💻 Full-stack developer (Web & Mobile)
 - ⚛️ Frontend: React, Next.js, Tailwind, shadcn/ui
 - 📱 Mobile: Flutter
@@ -51,10 +50,8 @@ I focus on clean architecture, performance, and real-world problem solving.
 
 - 🍔 **Food Delivery Platform**  
   Multi-role system (Customer, Restaurant, Driver, Admin)
-
 - 💰 **Mobile Payment Integrations**  
   M-Pesa, AzamPay, Pesapal with callbacks & transaction logs
-
 - 📊 **Audit Management System**  
   Risk ratings, findings, reports, and workflows
 
