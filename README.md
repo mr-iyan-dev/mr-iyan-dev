@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Ramadhan
 
-<!--
-**mr-iyan-dev/mr-iyan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate software engineer who enjoys building scalable web and mobile applications.  
+I focus on clean architecture, performance, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full-stack developer (Web & Mobile)
+- ⚛️ Frontend: React, Next.js, Tailwind, shadcn/ui
+- 📱 Mobile: Flutter
+- 🔧 Backend: Node.js, REST APIs
+- 💳 Payments: M-Pesa, AzamPay, Pesapal
+- 🗄️ Databases: PostgreSQL, Firestore
+- 🛠️ Tools: Git, Docker, Firebase
+
+---
+
+## 🧠 Currently Working On
+
+- Building enterprise audit & compliance systems
+- Payment integrations for mobile apps
+- Admin dashboards and internal tools
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- TypeScript
+- JavaScript
+- Dart
+
+**Frameworks & Libraries**
+- React / Next.js
+- Flutter
+- Zustand
+- shadcn/ui
+
+**Infrastructure**
+- Firebase
+- REST APIs
+- CI/CD basics
+
+---
+
+## 📌 Featured Projects
+
+- 🍔 **Food Delivery Platform**  
+  Multi-role system (Customer, Restaurant, Driver, Admin)
+
+- 💰 **Mobile Payment Integrations**  
+  M-Pesa, AzamPay, Pesapal with callbacks & transaction logs
+
+- 📊 **Audit Management System**  
+  Risk ratings, findings, reports, and workflows
+
+---
+
+## 📫 Get in Touch
+
+- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/your-profile
+
+---
+
+⭐️ *Feel free to explore my repositories and reach out if you'd like to collaborate.*
