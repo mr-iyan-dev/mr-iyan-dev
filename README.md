@@ -18,9 +18,6 @@ I focus on clean architecture, performance, and real-world problem solving.
 ---
 
 ## 🧠 Currently Working On
-
-- Building enterprise audit & compliance systems
-- Payment integrations for mobile apps
 - Admin dashboards and internal tools
 
 ---
