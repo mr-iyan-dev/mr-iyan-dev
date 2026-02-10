@@ -55,9 +55,8 @@ I focus on clean architecture, performance, and real-world problem solving.
 
 ## 📫 Get in Touch
 
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: [https://github.com/your-username](https://github.com/yourmr-iyan-dev)
+- Email: iyanonly99@gmail.com
 
 ---
 
